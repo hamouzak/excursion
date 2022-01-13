@@ -23,7 +23,8 @@ section p{
     font-size: 21px;
     color: grey;
 }
-footer img{
+footer p{
     text-align: right;
     color: gray;
+    font-size: 21px;
 }
